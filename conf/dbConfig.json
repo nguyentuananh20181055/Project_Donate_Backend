@@ -1,0 +1,9 @@
+{
+    "dbHost": "localhost",
+    "dbPort": 3306,
+    "dbName": "projectDonate",
+    "tableName": "donate",
+    "userName": "root",
+    "dbPass": "1234",
+    "fieldsFormat": "name varchar(200), money INT, comment TEXT, methodDonate TEXT , createdOn TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP"
+}
